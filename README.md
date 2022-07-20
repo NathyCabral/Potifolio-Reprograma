@@ -14,7 +14,7 @@
 
 - Componentes
 
-Que são como funções JavaScript. Aceitando entradas como propriedades (chamadas “props”) e retornando novos elementos React, os chamados JSX.*
+*Que são como funções JavaScript. Aceitando entradas como propriedades (chamadas “props”) e retornando novos elementos React, os chamados JSX.*
 
 - Props
 
