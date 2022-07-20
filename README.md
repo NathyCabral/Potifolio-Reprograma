@@ -10,7 +10,7 @@
 
 - Preparação de ambientes
 
-*Criando e entendendo o meu segundo projeto nessa linguagem.
+*Criando e entendendo o meu segundo projeto nessa linguagem.*
 
 - Componentes
 
